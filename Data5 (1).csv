@@ -1,0 +1,11 @@
+Country;Age ;Salary; Strength;Purchased
+Italy;39;65000;Strong;NO
+Greece;31;38000;Medium;YES
+Austria;42;64000;Weak;NO
+Greece;39;66000;Weak;NO
+Austria;40;;Strong;YES
+Italy;35;48000;Medium;YES
+Greece;;52000;Weak;NO
+Italy ;48;69000;Strong;YES
+Austria ;50;87000;Weak;NO
+Italy ;37;77000;Strong;YES
